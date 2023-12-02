@@ -2,14 +2,14 @@
 
 ## Sobre Mim
 
-Olá, mundo! Eu sou [Seu Nome], um(a) entusiasta de tecnologia e amante de memes. Quando não estou codificando, você pode me encontrar explorando o universo dos GIFs engraçados e criando projetos malucos.
+Olá, mundo! Eu sou <b>Ademir Silva Junior</b>, um entusiasta de tecnologia e amante de memes. Quando não estou codificando, você pode me encontrar explorando o universo dos GIFs engraçados e criando projetos malucos.
 
 ## Habilidades
 
 - **Linguagens de Programação:**
-  - Python 🐍
+  - HTML 🐍
   - JavaScript 💻
-  - PHP 🚀
+  - Phyton 🚀
 
 - **Frameworks e Bibliotecas:**
   - React.js ⚛️
