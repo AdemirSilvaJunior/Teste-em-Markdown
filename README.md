@@ -22,7 +22,7 @@ Olá, mundo! Eu sou <b>Ademir Silva Junior</b>, um entusiasta de tecnologia e am
 
 Descrição maluca do projeto que parece muito séria, mas é totalmente fictícia. Este projeto resolve o problema universal de algo que ninguém sabia que era um problema.
 
-![Imagem do Projeto Louco](link-da-imagem)
+[Imagem do Projeto Louco](link-da-imagem)
 
 ## Diversão Garantida 😄
 
