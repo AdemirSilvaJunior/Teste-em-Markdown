@@ -18,7 +18,7 @@ Olá, mundo! Eu sou <b>Ademir Silva Junior</b>, um entusiasta de tecnologia e am
 
 ## Projetos Incríveis
 
-### [Projeto Louco](link-do-projeto)
+### [Projeto Louco](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM-uEi7KVTSUpHxNhgjFTmuy6xNUILjhmpNQ&usqp=CAU)
 
 Descrição maluca do projeto que parece muito séria, mas é totalmente fictícia. Este projeto resolve o problema universal de algo que ninguém sabia que era um problema.
 
